@@ -4,8 +4,15 @@ import { useState, useEffect } from 'react';
 import FilterBlock from '@/components/FilterBlock';
 import Card from '@/components/Card';
 
+type Artist = {
+  name: string;
+  category: string;
+  location: string;
+  price: string;
+};
+
 export default function ArtistsPage() {
-  const [artists, setArtists] = useState([]);
+  const [artists, setArtists] = useState<Artist[]>([]);
   const [filters, setFilters] = useState({
     category: '',
     location: '',
