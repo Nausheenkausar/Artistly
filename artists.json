@@ -1,0 +1,26 @@
+[
+  {
+    "name": "DJ Nova",
+    "category": "DJ",
+    "location": "Mumbai",
+    "price": "$500"
+  },
+  {
+    "name": "Sufi Soul",
+    "category": "Singer",
+    "location": "Delhi",
+    "price": "$700"
+  },
+  {
+    "name": "DanceX Crew",
+    "category": "Dancer",
+    "location": "Bangalore",
+    "price": "$900"
+  },
+  {
+    "name": "InspireTalks",
+    "category": "Speaker",
+    "location": "Hyderabad",
+    "price": "$300"
+  }
+]
