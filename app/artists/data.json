@@ -1,0 +1,6 @@
+[
+  { "name": "DJ Nova", "category": "DJ", "price": "$500", "location": "Mumbai" },
+  { "name": "Sufi Soul", "category": "Singer", "price": "$700", "location": "Delhi" },
+  { "name": "DanceX Crew", "category": "Dancer", "price": "$900", "location": "Bangalore" },
+  { "name": "Motivator Max", "category": "Speaker", "price": "$300", "location": "Hyderabad" }
+]
